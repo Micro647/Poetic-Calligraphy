@@ -1,0 +1,4 @@
+这里可以通过lmdeploy方法与在古文领域微调过后的诗墨进行对话
+1，可采用lmdeploy部署对话，相关文件在目录下
+2，可采用gradio或streamlit对话
+3，可在openxlab相关链接上对话
