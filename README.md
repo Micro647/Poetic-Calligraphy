@@ -19,7 +19,7 @@
 
 未来将会增添更多功能！！
 
-![image](https://github.com/Micro647/Poetic-Calligraphy/blob/main/test/test.png)
+![image](https://github.com/Micro647/Poetic-Calligraphy/blob/main/test/use.png)
 
 
 对战功能已经初步产生，但由于不稳定，因此，只将原来的demo予以展示，后续测试成功将会继续使用：
